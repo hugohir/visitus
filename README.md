@@ -1,5 +1,7 @@
 # Travel Package Purchase_Prediction
 
+Jan 10 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
+
 You are a Data Scientist for a tourism company named "Visit with us". The Policy Maker of the company wants to enable and establish a viable business model to expand the customer base.
 
 A viable business model is a central concept that helps you to understand the existing ways of doing the business and how to change the ways for the benefit of the tourism sector.
