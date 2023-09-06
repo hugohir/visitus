@@ -1,4 +1,4 @@
-# Travel Package Purchase_Prediction
+# Travel Package Purchase Prediction
 
 Jan 10 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
 
