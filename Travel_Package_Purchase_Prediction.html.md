@@ -1,0 +1,1 @@
+[Render html version : Fantasy Tours' Travel Paclage Purchase Prediction](https://htmlpreview.github.io/?https://github.com/hugohiraoka/Travel_Package_Purchase_Prediction/blob/main/html/Travel_Package_Customer_Prediction.html)
